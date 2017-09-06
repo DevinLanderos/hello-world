@@ -1,2 +1,2 @@
 # hello-world
-Hello people of earth
+Hello people of the planet Earth
